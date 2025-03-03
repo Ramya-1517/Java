@@ -1,0 +1,12 @@
+public class SumOfFloat {
+
+	public static void main(String[] args) {
+		float a,b;
+		a = 5.5f;
+		b = 2.3f;
+		System.out.println("The sum od float value is: "+(a+b));
+		
+	
+	}
+
+}
