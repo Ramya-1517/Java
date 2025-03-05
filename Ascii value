@@ -1,0 +1,11 @@
+public class Asciiivalue {
+
+	public static void main(String[] args) {
+		char ch ='A';
+		int Asciivalue = ch;
+		System.out.println("The ASCII value of "+ch+ " is "+Asciivalue);
+		
+
+	}
+
+}
