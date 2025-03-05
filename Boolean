@@ -1,0 +1,9 @@
+public class javaisfun {
+
+	public static void main(String[] args) {
+		Boolean isJavafun=true;
+		System.out.println("Is Java Fun ? "+isJavafun);
+		
+	}
+
+}
