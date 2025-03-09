@@ -1,0 +1,11 @@
+public class casting {
+
+	public static void main(String[] args) {
+		int num = 100;
+		double var = num;
+		System.out.println("Small to Big casting is: "+num);
+	
+
+	}
+
+}
