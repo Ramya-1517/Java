@@ -1,0 +1,12 @@
+public class concatstring {
+
+	public static void main(String[] args) {
+		String Firstname = "Ram";
+		String Lastname = "Riya";
+		String Fullname = Firstname +Lastname;
+		System.out.println("The string concatenation is:"+Fullname);
+		
+
+	}
+
+}
