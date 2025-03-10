@@ -1,0 +1,10 @@
+public class longvar {
+
+	public static void main(String[] args) {
+		long population;
+		population = 980000L;
+		System.out.println("World population: "+population);
+
+	}
+
+}
