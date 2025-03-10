@@ -1,0 +1,12 @@
+public class castingbig {
+
+	public static void main(String[] args) {
+		double num =99.99;
+		int var = (int)num;
+		System.out.println("Double: "+num);
+		System.out.println("Int: "+var);
+		
+
+	}
+
+}
