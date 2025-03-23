@@ -1,0 +1,19 @@
+import java.util.Scanner;
+
+public class unary {
+
+	public static void main(String[] args) {
+		Scanner scan = new Scanner(System.in);
+	    System.out.println("enter the value of a:");
+	    int a = scan.nextInt();
+        //post increment
+	    System.out.println("post increment (a++) :" +(a++));
+	    System.out.println("After post increment: "+a);
+	    System.out.println("pree increment (++a): "+(++a));
+	    System.out.println(" post decrement(a--): "+(a--));
+	  
+	    System.out.println("After post decrement: "+a);
+	    System.out.println("pre decrement(--a): "+(--a));
+	}
+
+}
