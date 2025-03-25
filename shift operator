@@ -1,0 +1,11 @@
+
+public class shift {
+
+	public static void main(String[] args) {
+		int x =8;
+		System.out.println("X>>1: "+(x>>1));
+		System.out.println("X<<1: "+(x<<1));
+		
+	}
+
+}
